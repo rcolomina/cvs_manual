@@ -1,10 +1,6 @@
-# cvs_manual
+# CVS MANUAL
 Concurrent Version System Manual Guide
 
-
-Topics on this file
--------------------
-# CVS PASSWORD on TVUK
 # Adding Binary File into CVS
 # Removing files from CVS
 # Tagging
